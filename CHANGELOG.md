@@ -1,3 +1,10 @@
+## v1.1.1 (2026-06-17)
+
+### 🐛 Bug Fixes
+
+- **serial_ports**: preserve comports order within priority buckets *(Peter Dragun - 375c877)*
+
+
 ## v1.1.0 (2026-06-11)
 
 ### ✨ New Features
